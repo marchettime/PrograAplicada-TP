@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/gritoS.wav</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/explosion.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Fonts/Verdana</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/base_sound.mp3</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/explosion.wav</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/Space_inGame.mp3</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/banana_shoot.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/monkey_death.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/monkey_jumping.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/monkey_running.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/monkey_shooting.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/monkey_waiting.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/ovni_sprite.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/Space_gif.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/151018__bubaproducer__laser-shot-long.wav</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/satellite.png</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/laser_shoot.wav</File>
+    <File>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/meteorito.png</File>
+  </SourceFiles>
+</SourceFileCollection>
