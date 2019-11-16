@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Usuario/Documents/IFTS/PrograAplicada-TP/SpaceMonkey/Content/Audio/151018__bubaproducer__laser-shot-long.wav</SourceFile>
+  <SourceFile>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Audio/151018__bubaproducer__laser-shot-long.wav</SourceFile>
   <SourceTime>2019-11-14T21:52:54-03:00</SourceTime>
-  <DestFile>C:/Users/Usuario/Documents/IFTS/PrograAplicada-TP/SpaceMonkey/Content/bin/Windows/Audio/151018__bubaproducer__laser-shot-long.xnb</DestFile>
-  <DestTime>2019-11-15T18:54:26.5581083-03:00</DestTime>
+  <DestFile>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/bin/Windows/Audio/151018__bubaproducer__laser-shot-long.xnb</DestFile>
+  <DestTime>2019-11-15T12:19:18.0515547-03:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

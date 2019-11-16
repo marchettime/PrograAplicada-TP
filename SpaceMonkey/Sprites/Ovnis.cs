@@ -56,37 +56,37 @@ namespace SpaceMonkey.Sprites
 
             #region Choque
 
-            if (gameTime.TotalGameTime.Subtract(lasttime).Milliseconds > 500)
+            if (gameTime.TotalGameTime.Subtract(lasttime).Milliseconds > 200)
             {
                 lasttime = gameTime.TotalGameTime;
-                Mono LaVaca = null;
+                Mono ElMono = null;
                 foreach (var item in Game1.TheGame.sprites)
                 {
                     if (item is Mono)
                     {
-                        LaVaca = item as Mono;
+                        ElMono = item as Mono;
                         break;
                     }
                 }             foreach (var item in Game1.TheGame.sprites)
                 {
                     if (item is Mono)
                     {
-                        LaVaca = item as Mono;
+                        ElMono = item as Mono;
                         break;
                     }
                 }
-                if (LaVaca == null)
+                if (ElMono == null)
                 {
                     throw new NullReferenceException("No esta la vaca???");
                 }
-                if (Rectangle.Intersects(LaVaca.Rectangle))
+                if (Rectangle.Intersects(ElMono.Rectangle))
                 {
                     SoundEffect sonido = Game1.TheGame.Sounds[Game1.Sonidos.Grito];
                     sonido.CreateInstance();
                     sonido.Play();
                     Explosion explosion = new Explosion(Rectangle.Location.X, Rectangle.Location.Y);
-                    LaVaca.Vida -= 20;
-                    LaVaca.estado = 1;
+                    ElMono.Vida -= 20;
+                    ElMono.estado = 1;
                     Game1.TheGame.Actualizaciones.Add(this);
                     Game1.TheGame.Actualizaciones.Add(explosion);
                 }

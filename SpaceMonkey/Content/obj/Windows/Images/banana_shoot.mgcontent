@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Usuario/Documents/IFTS/PrograAplicada-TP/SpaceMonkey/Content/Images/banana_shoot.png</SourceFile>
-  <SourceTime>2019-11-12T20:31:59.7378657-03:00</SourceTime>
-  <DestFile>C:/Users/Usuario/Documents/IFTS/PrograAplicada-TP/SpaceMonkey/Content/bin/Windows/Images/banana_shoot.xnb</DestFile>
-  <DestTime>2019-11-15T18:54:24.6365026-03:00</DestTime>
+  <SourceFile>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/Images/banana_shoot.png</SourceFile>
+  <SourceTime>2019-11-15T19:02:16.1643712-03:00</SourceTime>
+  <DestFile>C:/Users/Usuario/Desktop/TP Programacion Aplicada 2019/SpaceMonkey/SpaceMonkey/Content/bin/Windows/Images/banana_shoot.xnb</DestFile>
+  <DestTime>2019-11-15T19:02:21.6312641-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
